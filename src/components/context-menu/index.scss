@@ -1,0 +1,48 @@
+.menu {
+  min-width: 200px;
+  background-color: #fff;
+  position: fixed;
+  z-index: 9;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  transition: all 0.1s ease;
+  border-radius: 10px;
+  padding: 0 10px;
+
+  ul {
+    padding: 0;
+    margin: 0;
+
+    li {
+      list-style: none;
+      width: 100%;
+      border-bottom: 1px solid #d9d9d9;
+      cursor: pointer;
+      text-align: center;
+      padding: 3px 0;
+      color: #555;
+
+
+      &:last-child {
+        border-bottom: none;
+        position: relative;
+      }
+
+
+      &>a,
+      &>span {
+        display: inline-block;
+        text-decoration: none;
+        color: #555;
+        width: 100%;
+        padding: 2px 0;
+        text-align: center;
+
+        &:hover,
+        &:active {
+          background-color: #e6fffb;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}

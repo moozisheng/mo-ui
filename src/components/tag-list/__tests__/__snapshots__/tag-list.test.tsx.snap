@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders TagList with base use 1`] = `
+<div>
+  <div
+    class="tag-list flex flex-wrap gap-6px [&_.ant-tag]:me-0"
+  >
+    <span
+      class="ant-tag css-dev-only-do-not-override-2i2tap"
+    >
+      Fackbook
+    </span>
+    <span
+      class="ant-tag css-dev-only-do-not-override-2i2tap"
+    >
+      TikTok
+    </span>
+    <span
+      class="ant-tag css-dev-only-do-not-override-2i2tap"
+    >
+      WhatsApp
+    </span>
+    <span
+      class="ant-tag css-dev-only-do-not-override-2i2tap"
+    >
+      Instagram
+    </span>
+  </div>
+</div>
+`;
+
+exports[`renders TagList with set all attributes 1`] = `
+<div>
+  <div
+    class="tag-list flex flex-wrap gap-6px [&_.ant-tag]:me-0"
+  >
+    <span
+      class="ant-tag ant-tag-success css-dev-only-do-not-override-2i2tap"
+    >
+      Fackbook
+    </span>
+    <span
+      class="ant-tag ant-tag-success css-dev-only-do-not-override-2i2tap"
+    >
+      TikTok
+    </span>
+    <span
+      class="ant-tag ant-tag-success css-dev-only-do-not-override-2i2tap"
+    >
+      WhatsApp
+    </span>
+    <span
+      class="ant-tag ant-tag-success css-dev-only-do-not-override-2i2tap"
+    >
+      Instagram
+    </span>
+  </div>
+</div>
+`;
+
+exports[`renders TagList with set single tag attribute 1`] = `
+<div>
+  <div
+    class="tag-list flex flex-wrap gap-6px [&_.ant-tag]:me-0"
+  >
+    <span
+      class="ant-tag ant-tag-success css-dev-only-do-not-override-2i2tap"
+    >
+      Fackbook
+    </span>
+    <span
+      class="ant-tag ant-tag-processing css-dev-only-do-not-override-2i2tap"
+    >
+      TikTok
+    </span>
+    <span
+      class="ant-tag ant-tag-warning css-dev-only-do-not-override-2i2tap"
+    >
+      WhatsApp
+    </span>
+    <span
+      class="ant-tag ant-tag-error css-dev-only-do-not-override-2i2tap"
+    >
+      Instagram
+    </span>
+  </div>
+</div>
+`;

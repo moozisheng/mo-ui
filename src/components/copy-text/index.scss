@@ -1,0 +1,13 @@
+.copy-text-item {
+ 
+  .icon-copy-text {
+    user-select: none;
+    color: var(--main-color, #1677ff);
+    cursor: pointer;
+    margin-left: 0.2em;
+
+    &.copy-success {
+      color: var(--success-color, #2cb360);
+    }
+  }
+}

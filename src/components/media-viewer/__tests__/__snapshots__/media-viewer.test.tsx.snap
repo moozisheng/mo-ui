@@ -1,0 +1,544 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders MediaViewer with preview multiple images 1`] = `
+<div>
+  <div
+    class="image-viewer-gallery-scope"
+  >
+    <div
+      class="image-viewer-thumbnail"
+      data-type="image"
+    >
+      <svg
+        class="icon-before"
+        height="1.45em"
+        p-id="12624"
+        version="1.1"
+        viewBox="0 0 1024 1024"
+        width="1.45em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g
+          fill="currentColor"
+        >
+          <path
+            d="M406.016 598.016q80 0 136.021333-56.021333t56.021333-136.021333-56.021333-136.021333-136.021333-56.021333-136.021333 56.021333-56.021333 136.021333 56.021333 136.021333 136.021333 56.021333zM662.016 598.016l212.010667 212.010667-64 64-212.010667-212.010667 0-34.005333-11.989333-11.989333q-75.989333 66.005333-180.010667 66.005333-116.010667 0-196.992-80t-80.981333-196.010667 80.981333-196.992 196.992-80.981333 196.010667 80.981333 80 196.992q0 104.021333-66.005333 180.010667l11.989333 11.989333 34.005333 0z"
+            p-id="12625"
+          />
+        </g>
+      </svg>
+      <div
+        class="mask"
+      />
+      <div
+        class="ant-image css-dev-only-do-not-override-2i2tap"
+        style="width: 4.75em; height: 4.75em;"
+      >
+        <img
+          class="ant-image-img css-dev-only-do-not-override-2i2tap"
+          height="4.75em"
+          src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"
+          style="height: 4.75em;"
+          width="4.75em"
+        />
+        <div
+          class="ant-image-mask"
+        >
+          <div
+            class="ant-image-mask-info"
+          >
+            <span
+              aria-label="eye"
+              class="anticon anticon-eye"
+              role="img"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="eye"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                />
+              </svg>
+            </span>
+            Preview
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="image-viewer-thumbnail"
+      data-type="image"
+    >
+      <svg
+        class="icon-before"
+        height="1.45em"
+        p-id="12624"
+        version="1.1"
+        viewBox="0 0 1024 1024"
+        width="1.45em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g
+          fill="currentColor"
+        >
+          <path
+            d="M406.016 598.016q80 0 136.021333-56.021333t56.021333-136.021333-56.021333-136.021333-136.021333-56.021333-136.021333 56.021333-56.021333 136.021333 56.021333 136.021333 136.021333 56.021333zM662.016 598.016l212.010667 212.010667-64 64-212.010667-212.010667 0-34.005333-11.989333-11.989333q-75.989333 66.005333-180.010667 66.005333-116.010667 0-196.992-80t-80.981333-196.010667 80.981333-196.992 196.992-80.981333 196.010667 80.981333 80 196.992q0 104.021333-66.005333 180.010667l11.989333 11.989333 34.005333 0z"
+            p-id="12625"
+          />
+        </g>
+      </svg>
+      <div
+        class="mask"
+      />
+      <div
+        class="ant-image css-dev-only-do-not-override-2i2tap"
+        style="width: 4.75em; height: 4.75em;"
+      >
+        <img
+          class="ant-image-img css-dev-only-do-not-override-2i2tap"
+          height="4.75em"
+          src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"
+          style="height: 4.75em;"
+          width="4.75em"
+        />
+        <div
+          class="ant-image-mask"
+        >
+          <div
+            class="ant-image-mask-info"
+          >
+            <span
+              aria-label="eye"
+              class="anticon anticon-eye"
+              role="img"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="eye"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                />
+              </svg>
+            </span>
+            Preview
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="image-viewer-thumbnail"
+      data-type="image"
+    >
+      <svg
+        class="icon-before"
+        height="1.45em"
+        p-id="12624"
+        version="1.1"
+        viewBox="0 0 1024 1024"
+        width="1.45em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g
+          fill="currentColor"
+        >
+          <path
+            d="M406.016 598.016q80 0 136.021333-56.021333t56.021333-136.021333-56.021333-136.021333-136.021333-56.021333-136.021333 56.021333-56.021333 136.021333 56.021333 136.021333 136.021333 56.021333zM662.016 598.016l212.010667 212.010667-64 64-212.010667-212.010667 0-34.005333-11.989333-11.989333q-75.989333 66.005333-180.010667 66.005333-116.010667 0-196.992-80t-80.981333-196.010667 80.981333-196.992 196.992-80.981333 196.010667 80.981333 80 196.992q0 104.021333-66.005333 180.010667l11.989333 11.989333 34.005333 0z"
+            p-id="12625"
+          />
+        </g>
+      </svg>
+      <div
+        class="mask"
+      />
+      <div
+        class="ant-image css-dev-only-do-not-override-2i2tap"
+        style="width: 4.75em; height: 4.75em;"
+      >
+        <img
+          class="ant-image-img css-dev-only-do-not-override-2i2tap"
+          height="4.75em"
+          src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"
+          style="height: 4.75em;"
+          width="4.75em"
+        />
+        <div
+          class="ant-image-mask"
+        >
+          <div
+            class="ant-image-mask-info"
+          >
+            <span
+              aria-label="eye"
+              class="anticon anticon-eye"
+              role="img"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="eye"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                />
+              </svg>
+            </span>
+            Preview
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="image-viewer-thumbnail"
+      data-type="video"
+    >
+      <svg
+        class="icon-before"
+        height="1.25em"
+        p-id="4834"
+        style="vertical-align: -0.125em;"
+        version="1.1"
+        viewBox="0 0 1024 1024"
+        width="1.25em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g
+          fill="currentColor"
+        >
+          <path
+            d="M662.315 481.195C602.58 436.82 494.677 370.26 433.152 329.3c-25.216-17.408-46.421-10.41-48.47 20.31-1.493 82.346 0 241.194 0 324.949 1.28 31.19 26.411 35.328 48.257 22.784l228.864-151.68a36.139 36.139 0 0 0 0.554-64.47zM512 170.667A341.333 341.333 0 1 0 853.333 512 341.717 341.717 0 0 0 512 170.667m0-85.334A426.667 426.667 0 1 1 85.333 512 426.667 426.667 0 0 1 512 85.333z"
+            p-id="4835"
+          />
+        </g>
+      </svg>
+      <div
+        class="mask"
+      />
+      <div
+        class="ant-image css-dev-only-do-not-override-2i2tap"
+        style="width: 4.75em; height: 4.75em;"
+      >
+        <img
+          class="ant-image-img css-dev-only-do-not-override-2i2tap"
+          height="4.75em"
+          src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"
+          style="height: 4.75em;"
+          width="4.75em"
+        />
+        <div
+          class="ant-image-mask"
+        >
+          <div
+            class="ant-image-mask-info"
+          >
+            <span
+              aria-label="eye"
+              class="anticon anticon-eye"
+              role="img"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="eye"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                />
+              </svg>
+            </span>
+            Preview
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="image-viewer-thumbnail"
+      data-type="audio"
+    >
+      <svg
+        class="icon-before"
+        height="1.25em"
+        p-id="17519"
+        version="1.1"
+        viewBox="0 0 1024 1024"
+        width="1.25em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g
+          fill="currentColor"
+        >
+          <path
+            d="M873.066667 533.333333h-39.466667c-4.202667 0-8.256 0.576-12.266667 1.237334V433.066667C821.333333 264.853333 682.56 128 512 128S202.666667 264.853333 202.666667 433.066667v101.504A75.434667 75.434667 0 0 0 190.378667 533.333333H150.954667A76.373333 76.373333 0 0 0 74.666667 609.6v210.133333A76.373333 76.373333 0 0 0 150.954667 896h39.445333a76.373333 76.373333 0 0 0 76.288-76.266667V433.066667C266.666667 300.138667 376.725333 192 512 192s245.333333 108.138667 245.333333 241.066667v386.666666A76.352 76.352 0 0 0 833.6 896h39.466667a76.352 76.352 0 0 0 76.266666-76.266667v-210.133333A76.373333 76.373333 0 0 0 873.066667 533.333333zM202.666667 714.666667v105.066666a12.288 12.288 0 0 1-12.288 12.266667H150.954667a12.288 12.288 0 0 1-12.288-12.266667v-210.133333c0-6.762667 5.504-12.266667 12.288-12.266667h39.445333c6.762667 0 12.266667 5.504 12.266667 12.266667V714.666667z m682.666666 105.066666a12.288 12.288 0 0 1-12.266666 12.266667h-39.466667a12.288 12.288 0 0 1-12.266667-12.266667v-210.133333c0-6.762667 5.504-12.266667 12.266667-12.266667h39.466667c6.762667 0 12.266667 5.504 12.266666 12.266667v210.133333z"
+            p-id="17520"
+          />
+          <path
+            d="M682.666667 578.666667h-85.333334c-12.394667 0-23.658667 7.168-28.949333 18.368l-9.472 20.138666-52.501333-125.546666c-5.056-12.074667-17.642667-19.477333-30.101334-19.648a32.021333 32.021333 0 0 0-29.376 20.736l-32.362666 85.930666H341.333333a32 32 0 1 0 0 64h95.381334a32 32 0 0 0 29.952-20.736l11.776-31.274666 49.216 117.696c4.885333 11.669333 16.170667 19.349333 28.821333 19.648h0.704a32 32 0 0 0 28.949333-18.368l31.530667-66.965334H682.666667a32 32 0 0 0 0-63.978666z"
+            p-id="17521"
+          />
+        </g>
+      </svg>
+      <div
+        class="mask"
+      />
+      <div
+        class="ant-image css-dev-only-do-not-override-2i2tap"
+        style="width: 4.75em; height: 4.75em;"
+      >
+        <img
+          class="ant-image-img css-dev-only-do-not-override-2i2tap"
+          height="4.75em"
+          src="data:image/png;base64,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"
+          style="height: 4.75em;"
+          width="4.75em"
+        />
+        <div
+          class="ant-image-mask"
+        >
+          <div
+            class="ant-image-mask-info"
+          >
+            <span
+              aria-label="eye"
+              class="anticon anticon-eye"
+              role="img"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="eye"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                />
+              </svg>
+            </span>
+            Preview
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="media-viewer-container"
+  >
+    <div
+      class="ant-image css-dev-only-do-not-override-2i2tap"
+      data-video="true"
+    >
+      <img
+        class="ant-image-img css-dev-only-do-not-override-2i2tap"
+        src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"
+        style="display: none;"
+      />
+      <div
+        class="ant-image-mask"
+        style="display: none;"
+      >
+        <div
+          class="ant-image-mask-info"
+        >
+          <span
+            aria-label="eye"
+            class="anticon anticon-eye"
+            role="img"
+          >
+            <svg
+              aria-hidden="true"
+              data-icon="eye"
+              fill="currentColor"
+              focusable="false"
+              height="1em"
+              viewBox="64 64 896 896"
+              width="1em"
+            >
+              <path
+                d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+              />
+            </svg>
+          </span>
+          Preview
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-image css-dev-only-do-not-override-2i2tap"
+      data-video="true"
+    >
+      <img
+        class="ant-image-img css-dev-only-do-not-override-2i2tap"
+        src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"
+        style="display: none;"
+      />
+      <div
+        class="ant-image-mask"
+        style="display: none;"
+      >
+        <div
+          class="ant-image-mask-info"
+        >
+          <span
+            aria-label="eye"
+            class="anticon anticon-eye"
+            role="img"
+          >
+            <svg
+              aria-hidden="true"
+              data-icon="eye"
+              fill="currentColor"
+              focusable="false"
+              height="1em"
+              viewBox="64 64 896 896"
+              width="1em"
+            >
+              <path
+                d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+              />
+            </svg>
+          </span>
+          Preview
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-image css-dev-only-do-not-override-2i2tap"
+      data-video="true"
+    >
+      <img
+        class="ant-image-img css-dev-only-do-not-override-2i2tap"
+        src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"
+        style="display: none;"
+      />
+      <div
+        class="ant-image-mask"
+        style="display: none;"
+      >
+        <div
+          class="ant-image-mask-info"
+        >
+          <span
+            aria-label="eye"
+            class="anticon anticon-eye"
+            role="img"
+          >
+            <svg
+              aria-hidden="true"
+              data-icon="eye"
+              fill="currentColor"
+              focusable="false"
+              height="1em"
+              viewBox="64 64 896 896"
+              width="1em"
+            >
+              <path
+                d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+              />
+            </svg>
+          </span>
+          Preview
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-image css-dev-only-do-not-override-2i2tap"
+      data-image="true"
+    >
+      <img
+        class="ant-image-img css-dev-only-do-not-override-2i2tap"
+        src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"
+        style="display: none;"
+      />
+      <div
+        class="ant-image-mask"
+        style="display: none;"
+      >
+        <div
+          class="ant-image-mask-info"
+        >
+          <span
+            aria-label="eye"
+            class="anticon anticon-eye"
+            role="img"
+          >
+            <svg
+              aria-hidden="true"
+              data-icon="eye"
+              fill="currentColor"
+              focusable="false"
+              height="1em"
+              viewBox="64 64 896 896"
+              width="1em"
+            >
+              <path
+                d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+              />
+            </svg>
+          </span>
+          Preview
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-image css-dev-only-do-not-override-2i2tap"
+      data-audio="true"
+    >
+      <img
+        class="ant-image-img css-dev-only-do-not-override-2i2tap"
+        src="https://www.runoob.com/try/demo_source/horse.ogg"
+        style="display: none;"
+      />
+      <div
+        class="ant-image-mask"
+        style="display: none;"
+      >
+        <div
+          class="ant-image-mask-info"
+        >
+          <span
+            aria-label="eye"
+            class="anticon anticon-eye"
+            role="img"
+          >
+            <svg
+              aria-hidden="true"
+              data-icon="eye"
+              fill="currentColor"
+              focusable="false"
+              height="1em"
+              viewBox="64 64 896 896"
+              width="1em"
+            >
+              <path
+                d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+              />
+            </svg>
+          </span>
+          Preview
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

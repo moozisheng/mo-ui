@@ -1,0 +1,18 @@
+
+.rotate-button-container {
+  padding: 0.25em;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform: translate((100%, 0));
+  z-index: 1;
+
+  .rotate-button-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    font-size: 12px;
+  }
+
+}

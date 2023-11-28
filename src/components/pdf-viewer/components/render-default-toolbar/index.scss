@@ -1,0 +1,9 @@
+.toolbar-item {
+  padding: 0 2px;
+}
+
+.rpv-core__viewer--dark {
+  .toolbar-item {
+    color: var(--color-white);
+  }
+}
