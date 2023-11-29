@@ -3,15 +3,12 @@
 [![NPM version](https://img.shields.io/npm/v/MO-UI.svg?style=flat)](https://npmjs.org/package/MO-UI)
 [![NPM downloads](http://img.shields.io/npm/dm/MO-UI.svg?style=flat)](https://npmjs.org/package/MO-UI)
 
-A react library developed with dumi
+一个基于 Ant Design 的业务组件库
 
 ## Usage
 
-TODO
 
-## Options
 
-TODO
 
 ## Development
 
