@@ -1,19 +1,18 @@
 import { defineConfig } from 'dumi';
-import fs from 'fs'
 
 // 通过静态文件的方式引入 pdf.worker.js 文件
 // const pdfScriptStr = fs.readFileSync(require.resolve('./scripts/pdf.worker.js'), 'utf-8')
 // 通过为外部的方式引入 pdf.worker.js 文件
 const pdfScriptStr = `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.js`;
 
-const base = '/mozi-ui'
-const logoPath = base + '/mo.png'
+const base = '/mo-ui';
+const logoPath = base + '/mo.png';
 
 export default defineConfig({
   // outputPath: 'docs-dist',
 
   base,
-  publicPath: '/mozi-ui/',
+  publicPath: '/mo-ui/',
 
   apiParser: {},
 
@@ -39,7 +38,7 @@ export default defineConfig({
     prefersColor: { default: 'light', switch: true },
     socialLinks: {
       github: 'https://github.com/moozisheng/',
-      yuque: 'https://www.yuque.com/moozi/umgbyh'
+      yuque: 'https://www.yuque.com/moozi/umgbyh',
     },
   },
   favicons: [logoPath],
@@ -53,16 +52,16 @@ export default defineConfig({
   plugins: [require.resolve('@umijs/plugins/dist/unocss')],
   unocss: {
     // 检测 className 的文件范围，若项目不包含 src 目录，可使用 `pages/**/*.tsx`
-    watch: ['src/**/*.tsx', 'src/**/**/*.tsx']
+    watch: ['src/**/*.tsx', 'src/**/**/*.tsx'],
   },
 
   resolve: {
     atomDirs: [
       { type: 'component', dir: 'src/components' },
       { type: 'component', dir: 'src/hooks' },
-      { type: 'component', dir: 'src' }
+      { type: 'component', dir: 'src' },
     ],
 
     entryFile: './src/index.ts',
-  }
+  },
 });

@@ -8,7 +8,7 @@ hero:
   actions: 
   # 按钮 
   - text: 立即使用
-    link: /components/copy-text
+    link: /components/area-cascader
 
 
 features:
